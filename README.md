@@ -6,7 +6,7 @@ Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing 
 
 ⬇️More details about this method below
 
-## CryptoHunt:
+## CryptoTweak:
 <img src="CryptoTweak_2.png">
 Login Aplikasi CryptoHunt
 
