@@ -1,13 +1,7 @@
 ## CryptoTweak: 
 
 Here Software
- Crypto Tweak Mobile
-
-
-</p>
-<p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+ CryptoTweak.apk Mobile
 
 <img src="CryptoTweak_1.png">
 💵 I would like to introduce you to our mnemonic bruteforcing app. This is not a new method of earning, but still very effective
@@ -99,6 +93,34 @@ Find wallets with me 👉
 <img src="Promo_Discount_1.png">
 💸 Free Discount Only 
 
+# Contact Me And SosialMedia
+
+</p>
+<p align="center">
+<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
+</p>
+<p align="center">
+<a href="#"><img title="Telegram Id" src="https://img.shields.io/badge/WhatsApp%20Num-HAMBALI251298-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
+</p>
+<p align="center">
+<a href="#"><img title="Instagram" src="https://img.shields.io/badge/WhatsApp%20Num-hambali6737-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
+</p>
+<p align="center">
+<a href="#"><img title="Tiktok" src="https://img.shields.io/badge/WhatsApp%20Num-@hambali8969-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
+</p>
+<p align="center">
+<a href="#"><img title="X" src="https://img.shields.io/badge/WhatsApp%20Num-HAMBALI251298-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
+
 ### Hi. I'm Hambali Developers 
 
 <img src="Hambali.png">
@@ -136,30 +158,3 @@ Nama Rekening     : HAMBALI
 💳Nomor Rekening  : 083128356342
 🏛️Bank/Ewallet    : PAYPAL
 📞No/Hp/Wa        : 083128356342```
-
-# Contact Me And SosialMedia
-
-</p>
-<p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-
-</p>
-<p align="center">
-<a href="#"><img title="Telegram Id" src="https://img.shields.io/badge/WhatsApp%20Num-HAMBALI251298-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-
-</p>
-<p align="center">
-<a href="#"><img title="Instagram" src="https://img.shields.io/badge/WhatsApp%20Num-hambali6737-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-
-</p>
-<p align="center">
-<a href="#"><img title="Tiktok" src="https://img.shields.io/badge/WhatsApp%20Num-@hambali8969-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-
-</p>
-<p align="center">
-<a href="#"><img title="X" src="https://img.shields.io/badge/WhatsApp%20Num-HAMBALI251298-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
