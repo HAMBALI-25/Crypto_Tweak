@@ -139,4 +139,4 @@ Nama Rekening    : HAMBALI
 Nama Rekening    : HAMBALI
 💳Nomor Rekening : 083128356342
 🏛️Bank/Ewallet   : PAYPAL
-📞No/Hp/Wa       : 083128356342```
+📞No/Hp/Wa       : 083128356342
