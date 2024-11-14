@@ -1,9 +1,10 @@
 ## CryptoTweak: 
 
-Here Software Mobile
+Here Software version Mobile
+CryptoTweak.apk
 
 <img src="CryptoTweak_1.png">
-CryptoTweak.apk
+
 
 💵 I would like to introduce you to our mnemonic bruteforcing app. This is not a new method of earning, but still very effective
 
@@ -64,7 +65,7 @@ TYPES OF LICENSE:
 
 ❗️TEST PERIOD  - $80 / 1 day
 
-👨‍💻BUY LICENSE
+👨‍💻 BUY LICENSE
 
 
 ## CryptoTweak:
